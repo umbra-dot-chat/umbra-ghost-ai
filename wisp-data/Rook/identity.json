@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6Mku9wBTNMnVMNr5wxX6Tw5gGPmptJEyjn6BuuUDoW5MxSA",
+  "displayName": "Rook",
+  "signingPrivateKey": "59b7cb56e3db6e7151cc20d706db15f227a4be1f92340590526bf7a15a7b4f42",
+  "signingPublicKey": "da6f199f19008c41f3ac5290db7554faa91c8df33a19a2e32d40b30405879b6f",
+  "encryptionPrivateKey": "f0d8edfd83d5eef356a1e39955cabb1088d5f629fc04708dbe05e44033aec091",
+  "encryptionPublicKey": "9b5d757e882624f991ab089eb3f0b6fb1c4333a4784339106780adbe3704b818"
+}

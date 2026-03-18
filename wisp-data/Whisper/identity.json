@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkmMvLdx5yrhgAw1pNnv1CtYf66eufDuvKEWSj62tRtydj",
+  "displayName": "Whisper",
+  "signingPrivateKey": "79c6d2d2b278c4d1408e28122ed4dfacbb9e47aa83a84b62a27f87c9bb1e247f",
+  "signingPublicKey": "66a39f688c1f7613fc6e6ddc93de1fcb00e109f5cb6286bbe42cb09537bb514a",
+  "encryptionPrivateKey": "8cf9f82221d4a061db4b48034c8d8721b1d38a5d2bad836d0721aea0e136ee98",
+  "encryptionPublicKey": "8e060bfea2c5b2f4a8d78fb702b417cb992934a4355bddaf61cd02d51aa9df47"
+}

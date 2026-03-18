@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/
+*.js
+*.d.ts
+*.js.map
+!src/
+.env
+.credentials

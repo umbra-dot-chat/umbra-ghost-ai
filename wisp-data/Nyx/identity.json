@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MksBdnPL2FNs61mGEHQCKCd7WWPEG1MkmsYkjwaNx3Y8H9",
+  "displayName": "Nyx",
+  "signingPrivateKey": "cfbe2e9de180dd8ad1ef2dc728956a0ebf1f9216cc2e29a1aad83c8a3b024e4e",
+  "signingPublicKey": "bd273755727c92eddacfedcdc09cd5aebdd10de974a3faa9345db0bcb4a365bc",
+  "encryptionPrivateKey": "90188ee3036cdddf296f5d59077b1e4fa9513b09a99869e31e33640c4affe096",
+  "encryptionPublicKey": "80822f04d22a4ca6f5282750511de82661bd7e710c92e83bc20ab92408bc4062"
+}

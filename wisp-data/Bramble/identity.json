@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkmTyU8HUSrQmHWjHNKchKZVpG7LMMsgZ1FTF1yPxx78vQ",
+  "displayName": "Bramble",
+  "signingPrivateKey": "9fcea77bbf25713fa3c4f37debaedc478d9849c74a00b6797ea7592cdb519ba4",
+  "signingPublicKey": "6830a548ce6f56cbd342536195c736b1c13be2e02359fe812e5982fabbead255",
+  "encryptionPrivateKey": "a35c54e9797c55ca1131afa61f3a3977d981b05f478f35ff15bec1680100f6fd",
+  "encryptionPublicKey": "9d515d098fbb59d383ec396072081a3c2a6a22811b7d71d8cf4e64e2139d4a67"
+}

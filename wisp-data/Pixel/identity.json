@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6Mkn6abrAE1gyNgDWcV5NTMi4BoeX9gtjTjvEawqJhP7sRp",
+  "displayName": "Pixel",
+  "signingPrivateKey": "7c9067772e4efb12f4ce470f3d6801b33066550457244b8786552663cb1e7273",
+  "signingPublicKey": "719147a9c59bf786127359b0f4abb1aa112b2038e26c69403fe9cc0e92bc6237",
+  "encryptionPrivateKey": "7d664c2cde9473abc3ba98541d8de142fd9e772b76ad8f01b052d9b3a35383ed",
+  "encryptionPublicKey": "5fbfb5e17a5b236ca16607f43a46f20b35d9f205e74dfc93e9b21a36fc3fe108"
+}

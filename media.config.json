@@ -1,0 +1,89 @@
+{
+  "audio": [
+    {
+      "id": "lofi-study",
+      "name": "Lofi Study",
+      "url": "https://cdn.pixabay.com/download/audio/2024/11/04/audio_4956b4edd1.mp3",
+      "format": "mp3"
+    },
+    {
+      "id": "jazz-cafe",
+      "name": "Jazz Café",
+      "url": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "format": "mp3"
+    },
+    {
+      "id": "classical-piano",
+      "name": "Classical Piano",
+      "url": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3",
+      "format": "mp3"
+    }
+  ],
+  "video": [
+    {
+      "id": "tears-of-steel-4k",
+      "name": "Tears of Steel (4K)",
+      "url": "http://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tearsofsteel_4k.mov",
+      "format": "mp4",
+      "resolution": "3840x2160"
+    },
+    {
+      "id": "bbb",
+      "name": "Big Buck Bunny",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "format": "mp4",
+      "resolution": "1280x720"
+    },
+    {
+      "id": "sintel",
+      "name": "Sintel",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "format": "mp4",
+      "resolution": "1280x546"
+    },
+    {
+      "id": "elephants-dream",
+      "name": "Elephant's Dream",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "format": "mp4",
+      "resolution": "1280x720"
+    }
+  ],
+  "files": [
+    {
+      "id": "sample-image-1",
+      "name": "Sample Image (Landscape)",
+      "url": "https://picsum.photos/1920/1080",
+      "format": "jpg",
+      "category": "image"
+    },
+    {
+      "id": "sample-image-2",
+      "name": "Sample Image (Portrait)",
+      "url": "https://picsum.photos/1080/1920",
+      "format": "jpg",
+      "category": "image"
+    },
+    {
+      "id": "sample-text",
+      "name": "Sample Text Document",
+      "generate": "lorem-ipsum",
+      "format": "txt",
+      "category": "document"
+    },
+    {
+      "id": "sample-json",
+      "name": "Sample JSON Data",
+      "generate": "sample-json",
+      "format": "json",
+      "category": "document"
+    },
+    {
+      "id": "sample-archive",
+      "name": "Sample ZIP Archive",
+      "generate": "sample-archive",
+      "format": "zip",
+      "category": "archive"
+    }
+  ]
+}

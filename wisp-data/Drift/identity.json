@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkuprtfRotzkjo4TZzR3cegTt9yFKs5zNhuGd3F7Ry25aG",
+  "displayName": "Drift",
+  "signingPrivateKey": "b9a3d951eed9c914f226eeeb8713a48e97a630f4893978f1f90821c98f801c4c",
+  "signingPublicKey": "e467e6c6530a0c64fb267835a99209125938e47bc16490c65a6bf3757cee5741",
+  "encryptionPrivateKey": "00ebd87b18986585d795a353bb483ee2fba94614d017ee7e341b9b0dc754d2b2",
+  "encryptionPublicKey": "b9d366fd0236aa96401fe6f24412414d3cd36630511bb333ec88220e5a5d913a"
+}

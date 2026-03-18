@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkhW629AwyAf6dcgozTmA1C4UKQFzstKvDLvZKJN8bNNJB",
+  "displayName": "Jinx",
+  "signingPrivateKey": "6b6abfe1031b584fb7302f89b2f6294207e7cc0f480d72ce60998ff191366572",
+  "signingPublicKey": "2d4c77c90976596a3620fd2c8dd16fec6c5c98b31ce5fbe9d3dd9e27ec0fe460",
+  "encryptionPrivateKey": "111b5b9a1cb7986526fb37723c7ff9286c8fd7a2610d553f383197b41338282d",
+  "encryptionPublicKey": "94fe75f774ec71fdd0e2d2ddc99c5643f3c509f0f80251006d867bc853387c6e"
+}

@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkoBroUpTeAvThKEUtB8ciTaKpdjcEvybh88Lfx4ttsAS9",
+  "displayName": "Mote",
+  "signingPrivateKey": "db2f9d25478b832cf27e39f5abeb88f2c9f4a4db14fd6db4947103570146dbb1",
+  "signingPublicKey": "81c7305dabd02e2632bccce0d2619fdb9eda6edebc30cdcfec42d6a7311e5d16",
+  "encryptionPrivateKey": "b7687a4614035b5a5f893320b9a2867427ceabacd0ad6d1b8ba4b60bfe4997fb",
+  "encryptionPublicKey": "1d8024b9a5d13f81c258ec7b94310b9b03f9922bc1e91b716bb1adc17cba180d"
+}

@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkfxdDqLVbQjfnj19YfAqcYrR6yYUow5tW8JL5mzDLYxjp",
+  "displayName": "Echo",
+  "signingPrivateKey": "c4799644eab52ed0698e4e9b0c82b8c9eeb5004428f4401413d028f9eebe9e12",
+  "signingPublicKey": "1661798fc8045486a4fede293ee23e9f85a5e0c581492efe6296b0af3c7d9337",
+  "encryptionPrivateKey": "c2e9fc4e8bf4112b69b36c0d1f1194b4f3d55d9e815837df942d12e839809a8d",
+  "encryptionPublicKey": "3c172d57daee82aff50a974d1d782464aca1bc9b717a8e7fcafcda563d395613"
+}

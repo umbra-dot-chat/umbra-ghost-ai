@@ -1,0 +1,210 @@
+{
+  "friends": [
+    {
+      "did": "did:key:z6MksBdnPL2FNs61mGEHQCKCd7WWPEG1MkmsYkjwaNx3Y8H9",
+      "displayName": "Nyx",
+      "signingKey": "bd273755727c92eddacfedcdc09cd5aebdd10de974a3faa9345db0bcb4a365bc",
+      "encryptionKey": "80822f04d22a4ca6f5282750511de82661bd7e710c92e83bc20ab92408bc4062",
+      "conversationId": "f4725bc437b9fccd282f122bf31cc300d995f33aa9bd051607c73fad05c742ac"
+    },
+    {
+      "did": "did:key:z6MkvnTiUFUXcQSrN5NLBYW3JSgT27c6RdYa9Wtyg4tVKQ8m",
+      "displayName": "Flicker",
+      "signingKey": "f2a638cd51356e6f4284ee57e11ead6429521afb2e5fe8d5927682dd459f99ae",
+      "encryptionKey": "06a931286654ee07447c98bacabe7666db7eae56c3e9419e3be226beeeebb413",
+      "conversationId": "60e944f3fe16e8ecd542eee89113eec3449cbcdd3ceb40613c5ce167e9410493"
+    },
+    {
+      "did": "did:key:z6MkmTyU8HUSrQmHWjHNKchKZVpG7LMMsgZ1FTF1yPxx78vQ",
+      "displayName": "Bramble",
+      "signingKey": "6830a548ce6f56cbd342536195c736b1c13be2e02359fe812e5982fabbead255",
+      "encryptionKey": "9d515d098fbb59d383ec396072081a3c2a6a22811b7d71d8cf4e64e2139d4a67",
+      "conversationId": "17a10c3d282fddfab4ece7135131ab11c7564d4eff18db3bd0c021414959c9b7"
+    },
+    {
+      "did": "did:key:z6Mkn6abrAE1gyNgDWcV5NTMi4BoeX9gtjTjvEawqJhP7sRp",
+      "displayName": "Pixel",
+      "signingKey": "719147a9c59bf786127359b0f4abb1aa112b2038e26c69403fe9cc0e92bc6237",
+      "encryptionKey": "5fbfb5e17a5b236ca16607f43a46f20b35d9f205e74dfc93e9b21a36fc3fe108",
+      "conversationId": "d925a55cc05f7358ecb1ad47fc12b8a098be52744f49a1db4027e7f58b5a7fb7"
+    },
+    {
+      "did": "did:key:z6Mku9wBTNMnVMNr5wxX6Tw5gGPmptJEyjn6BuuUDoW5MxSA",
+      "displayName": "Rook",
+      "signingKey": "da6f199f19008c41f3ac5290db7554faa91c8df33a19a2e32d40b30405879b6f",
+      "encryptionKey": "9b5d757e882624f991ab089eb3f0b6fb1c4333a4784339106780adbe3704b818",
+      "conversationId": "709e2d2fb6b888bd1d68de7ce11e48b42877ed4898faf6256ce4d25fb9182d1e"
+    },
+    {
+      "did": "did:key:z6MkoBroUpTeAvThKEUtB8ciTaKpdjcEvybh88Lfx4ttsAS9",
+      "displayName": "Mote",
+      "signingKey": "81c7305dabd02e2632bccce0d2619fdb9eda6edebc30cdcfec42d6a7311e5d16",
+      "encryptionKey": "1d8024b9a5d13f81c258ec7b94310b9b03f9922bc1e91b716bb1adc17cba180d",
+      "conversationId": "a7caf769338908fa985b933780594040095306b005447eb8bd2e10e1737b8aeb"
+    },
+    {
+      "did": "did:key:z6MkmMvLdx5yrhgAw1pNnv1CtYf66eufDuvKEWSj62tRtydj",
+      "displayName": "Whisper",
+      "signingKey": "66a39f688c1f7613fc6e6ddc93de1fcb00e109f5cb6286bbe42cb09537bb514a",
+      "encryptionKey": "8e060bfea2c5b2f4a8d78fb702b417cb992934a4355bddaf61cd02d51aa9df47",
+      "conversationId": "f5fee7fea9f74a8a18e8a4e5b77ea474119c90cb543062d09566b3a9522634d6"
+    },
+    {
+      "did": "did:key:z6MkuprtfRotzkjo4TZzR3cegTt9yFKs5zNhuGd3F7Ry25aG",
+      "displayName": "Drift",
+      "signingKey": "e467e6c6530a0c64fb267835a99209125938e47bc16490c65a6bf3757cee5741",
+      "encryptionKey": "b9d366fd0236aa96401fe6f24412414d3cd36630511bb333ec88220e5a5d913a",
+      "conversationId": "f3d1d51641d1d84eeda645b65f5fceaaae04b600579d4a02fd9a24d42bc50512"
+    },
+    {
+      "did": "did:key:z6MkhW629AwyAf6dcgozTmA1C4UKQFzstKvDLvZKJN8bNNJB",
+      "displayName": "Jinx",
+      "signingKey": "2d4c77c90976596a3620fd2c8dd16fec6c5c98b31ce5fbe9d3dd9e27ec0fe460",
+      "encryptionKey": "94fe75f774ec71fdd0e2d2ddc99c5643f3c509f0f80251006d867bc853387c6e",
+      "conversationId": "014a931217fde19cd408c88a93b8f4dc37811a446b5bce929b4c3bbded9a99cf"
+    },
+    {
+      "did": "did:key:z6MkfxdDqLVbQjfnj19YfAqcYrR6yYUow5tW8JL5mzDLYxjp",
+      "displayName": "Echo",
+      "signingKey": "1661798fc8045486a4fede293ee23e9f85a5e0c581492efe6296b0af3c7d9337",
+      "encryptionKey": "3c172d57daee82aff50a974d1d782464aca1bc9b717a8e7fcafcda563d395613",
+      "conversationId": "b344584aa9878aaae1ea563b61d25ec4f71826eeb2379a8163462f898d5b5df2"
+    },
+    {
+      "did": "did:key:z6MkuwUwyt6iy4qKR77Az7cnP4ZhS5Q6c874rjohrPrJYS7p",
+      "displayName": "Volt",
+      "signingKey": "e61a2805934b54114740428d2f688f881e60ab9ce2abc5d035acfd5c12d21697",
+      "encryptionKey": "ec790faba3776fb23c5642da100bf2e3a51fe34bc09cf94cb230be7c37592368",
+      "conversationId": "64ab6354e8af9a99eb39ae4d929444ac8cae9e29ca6d1a6e434097c877eb2acf"
+    },
+    {
+      "did": "did:key:z6MkfVBKsHMs1yHRCBfpvKELQrMUPQtJqiCwArhwKSftuqR9",
+      "displayName": "TestUser",
+      "signingKey": "0f59832860667f16bb9dc5f7d85f999a80d8425f346ab6fb9e9bf416d191c788",
+      "encryptionKey": "78c32ce2a6a41180087d93929e7f6cf1e229e98cf4461fea8175a154e2e43674",
+      "conversationId": "2b47ddbdb2ad82702bd377c3f4599a93b4a9f6ba8fd79e5596a6b5daa50b3b84"
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "447b87bf-7b55-4d55-91a1-67ece597ec82",
+      "groupName": "Wisp Hangout",
+      "groupKey": "6f3d1f73cb96486d213874dc055c1cd93681c26373497664a6743a3566793625",
+      "members": [
+        {
+          "did": "did:key:z6MksBdnPL2FNs61mGEHQCKCd7WWPEG1MkmsYkjwaNx3Y8H9",
+          "displayName": "Nyx"
+        },
+        {
+          "did": "did:key:z6MkvnTiUFUXcQSrN5NLBYW3JSgT27c6RdYa9Wtyg4tVKQ8m",
+          "displayName": "Flicker"
+        },
+        {
+          "did": "did:key:z6MkmTyU8HUSrQmHWjHNKchKZVpG7LMMsgZ1FTF1yPxx78vQ",
+          "displayName": "Bramble"
+        },
+        {
+          "did": "did:key:z6Mkn6abrAE1gyNgDWcV5NTMi4BoeX9gtjTjvEawqJhP7sRp",
+          "displayName": "Pixel"
+        },
+        {
+          "did": "did:key:z6Mku9wBTNMnVMNr5wxX6Tw5gGPmptJEyjn6BuuUDoW5MxSA",
+          "displayName": "Rook"
+        },
+        {
+          "did": "did:key:z6MkoBroUpTeAvThKEUtB8ciTaKpdjcEvybh88Lfx4ttsAS9",
+          "displayName": "Mote"
+        },
+        {
+          "did": "did:key:z6MkgEVVQArbM1vCmWad7tzLs58gqj255sKc8nixyTWX5AtA",
+          "displayName": "Cinder"
+        },
+        {
+          "did": "did:key:z6MkmMvLdx5yrhgAw1pNnv1CtYf66eufDuvKEWSj62tRtydj",
+          "displayName": "Whisper"
+        },
+        {
+          "did": "did:key:z6MkuprtfRotzkjo4TZzR3cegTt9yFKs5zNhuGd3F7Ry25aG",
+          "displayName": "Drift"
+        },
+        {
+          "did": "did:key:z6MkhW629AwyAf6dcgozTmA1C4UKQFzstKvDLvZKJN8bNNJB",
+          "displayName": "Jinx"
+        },
+        {
+          "did": "did:key:z6MkfxdDqLVbQjfnj19YfAqcYrR6yYUow5tW8JL5mzDLYxjp",
+          "displayName": "Echo"
+        },
+        {
+          "did": "did:key:z6MkuwUwyt6iy4qKR77Az7cnP4ZhS5Q6c874rjohrPrJYS7p",
+          "displayName": "Volt"
+        },
+        {
+          "did": "did:key:z6MkfVBKsHMs1yHRCBfpvKELQrMUPQtJqiCwArhwKSftuqR9",
+          "displayName": "User"
+        }
+      ],
+      "conversationId": "group-447b87bf-7b55-4d55-91a1-67ece597ec82"
+    },
+    {
+      "groupId": "efb94f60-8ad0-4f92-957c-8ff4202b12c2",
+      "groupName": "Wisp Hollow",
+      "groupKey": "a0c5f0351c79fd363ba09ac2955d54455b905a13b2f1168c16a34a775e1f044a",
+      "members": [
+        {
+          "did": "did:key:z6MksBdnPL2FNs61mGEHQCKCd7WWPEG1MkmsYkjwaNx3Y8H9",
+          "displayName": "Nyx"
+        },
+        {
+          "did": "did:key:z6MkvnTiUFUXcQSrN5NLBYW3JSgT27c6RdYa9Wtyg4tVKQ8m",
+          "displayName": "Flicker"
+        },
+        {
+          "did": "did:key:z6MkmTyU8HUSrQmHWjHNKchKZVpG7LMMsgZ1FTF1yPxx78vQ",
+          "displayName": "Bramble"
+        },
+        {
+          "did": "did:key:z6Mkn6abrAE1gyNgDWcV5NTMi4BoeX9gtjTjvEawqJhP7sRp",
+          "displayName": "Pixel"
+        },
+        {
+          "did": "did:key:z6Mku9wBTNMnVMNr5wxX6Tw5gGPmptJEyjn6BuuUDoW5MxSA",
+          "displayName": "Rook"
+        },
+        {
+          "did": "did:key:z6MkoBroUpTeAvThKEUtB8ciTaKpdjcEvybh88Lfx4ttsAS9",
+          "displayName": "Mote"
+        },
+        {
+          "did": "did:key:z6MkgEVVQArbM1vCmWad7tzLs58gqj255sKc8nixyTWX5AtA",
+          "displayName": "Cinder"
+        },
+        {
+          "did": "did:key:z6MkmMvLdx5yrhgAw1pNnv1CtYf66eufDuvKEWSj62tRtydj",
+          "displayName": "Whisper"
+        },
+        {
+          "did": "did:key:z6MkuprtfRotzkjo4TZzR3cegTt9yFKs5zNhuGd3F7Ry25aG",
+          "displayName": "Drift"
+        },
+        {
+          "did": "did:key:z6MkhW629AwyAf6dcgozTmA1C4UKQFzstKvDLvZKJN8bNNJB",
+          "displayName": "Jinx"
+        },
+        {
+          "did": "did:key:z6MkfxdDqLVbQjfnj19YfAqcYrR6yYUow5tW8JL5mzDLYxjp",
+          "displayName": "Echo"
+        },
+        {
+          "did": "did:key:z6MkuwUwyt6iy4qKR77Az7cnP4ZhS5Q6c874rjohrPrJYS7p",
+          "displayName": "Volt"
+        },
+        {
+          "did": "did:key:z6MkfVBKsHMs1yHRCBfpvKELQrMUPQtJqiCwArhwKSftuqR9",
+          "displayName": "TestUser"
+        }
+      ],
+      "conversationId": "group-efb94f60-8ad0-4f92-957c-8ff4202b12c2"
+    }
+  ]
+}

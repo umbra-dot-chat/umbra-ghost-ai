@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkgEVVQArbM1vCmWad7tzLs58gqj255sKc8nixyTWX5AtA",
+  "displayName": "Cinder",
+  "signingPrivateKey": "3272b15f665bced0df797ea5767be9c80a4a3e17c26dea6d0d5b76a5fafca098",
+  "signingPublicKey": "1a72068f6c2b29d1793933c03a88d75087cc72890f80e281c7c25a9a45f5f0fb",
+  "encryptionPrivateKey": "de202af04c8987dedcc051fe3ed89451f0c5ebf46a3eba01fca527aa1e1fbeb3",
+  "encryptionPublicKey": "e6143b69cbb591988cdd6e4c60c4fc931a144db6eeb17ac48e86ca8d9ca6067e"
+}

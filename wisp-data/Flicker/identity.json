@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkvnTiUFUXcQSrN5NLBYW3JSgT27c6RdYa9Wtyg4tVKQ8m",
+  "displayName": "Flicker",
+  "signingPrivateKey": "93f27fd8ef0f917819d4ed006466d81b98bc5c243a3963389091aa97c0a168a1",
+  "signingPublicKey": "f2a638cd51356e6f4284ee57e11ead6429521afb2e5fe8d5927682dd459f99ae",
+  "encryptionPrivateKey": "4b1ff6c184ecedba760b20d75226563abda8c47b9b4e3d195ae83563ac1f55ac",
+  "encryptionPublicKey": "06a931286654ee07447c98bacabe7666db7eae56c3e9419e3be226beeeebb413"
+}

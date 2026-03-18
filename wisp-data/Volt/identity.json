@@ -1,0 +1,8 @@
+{
+  "did": "did:key:z6MkuwUwyt6iy4qKR77Az7cnP4ZhS5Q6c874rjohrPrJYS7p",
+  "displayName": "Volt",
+  "signingPrivateKey": "2342a0e3eadb61f6e265015d45049358647594fc959a787470ce15959a86826a",
+  "signingPublicKey": "e61a2805934b54114740428d2f688f881e60ab9ce2abc5d035acfd5c12d21697",
+  "encryptionPrivateKey": "69b2d52852dead10a1fc1038a91562f19578f68b1c32e4ab5403377d171bb7f2",
+  "encryptionPublicKey": "ec790faba3776fb23c5642da100bf2e3a51fe34bc09cf94cb230be7c37592368"
+}
